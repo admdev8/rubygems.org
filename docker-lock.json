@@ -18,7 +18,7 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "af8fa187032cb5f93b8dca69d556bd46f41e6b4690a2028386fbb97481092fd2",
+				"digest": "1ecdb35efc586a3ba003d1ab9105cbdc3e4d88ea0008ba59be0a184df6e2418f",
 				"service": "cache"
 			},
 			{
