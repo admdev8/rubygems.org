@@ -4,12 +4,12 @@
 			{
 				"name": "ruby",
 				"tag": "2.6-alpine",
-				"digest": "956b3a7b19e04102f7576bf8d41294d4d2abec1880c59d75e6155525609fabb7"
+				"digest": "77d03e5b6b4ff9340670aa12776ccc8b4f3ef83a4bd631a84d03cc40d5ea2712"
 			},
 			{
 				"name": "ruby",
 				"tag": "2.6-alpine",
-				"digest": "956b3a7b19e04102f7576bf8d41294d4d2abec1880c59d75e6155525609fabb7"
+				"digest": "77d03e5b6b4ff9340670aa12776ccc8b4f3ef83a4bd631a84d03cc40d5ea2712"
 			}
 		]
 	},
