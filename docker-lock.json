@@ -4,12 +4,12 @@
 			{
 				"name": "ruby",
 				"tag": "2.6-alpine",
-				"digest": ""
+				"digest": "77d03e5b6b4ff9340670aa12776ccc8b4f3ef83a4bd631a84d03cc40d5ea2712"
 			},
 			{
 				"name": "ruby",
 				"tag": "2.6-alpine",
-				"digest": ""
+				"digest": "77d03e5b6b4ff9340670aa12776ccc8b4f3ef83a4bd631a84d03cc40d5ea2712"
 			}
 		]
 	},
@@ -18,19 +18,19 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "",
+				"digest": "1ecdb35efc586a3ba003d1ab9105cbdc3e4d88ea0008ba59be0a184df6e2418f",
 				"service": "cache"
 			},
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "",
+				"digest": "ed9dc9b796129c750cc2d463ac2526b2fbbde436db12747a5c30324ee02e5fb8",
 				"service": "db"
 			},
 			{
 				"name": "elasticsearch",
 				"tag": "5.6.16",
-				"digest": "",
+				"digest": "d0e119779df7ddf9d476102691d9d0b8783c13434e00d77f01327019c1297839",
 				"service": "search"
 			}
 		]
