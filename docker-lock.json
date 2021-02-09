@@ -24,7 +24,7 @@
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "ed9dc9b796129c750cc2d463ac2526b2fbbde436db12747a5c30324ee02e5fb8",
+				"digest": "9481e449ec7fdbcbb13ce3752670d262f0b2fc81b2450abacc22f1bf5ffdded3",
 				"service": "db"
 			},
 			{
