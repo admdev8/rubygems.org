@@ -18,13 +18,13 @@
 			{
 				"name": "memcached",
 				"tag": "latest",
-				"digest": "15b9a27158ef79d113ad28c679c202336f9bacdf893e17b2001639975c276223",
+				"digest": "4864bee476ec386e1f2bc2f0ea421191a35beddfffac8d5dad73031f9b275c9c",
 				"service": "cache"
 			},
 			{
 				"name": "postgres",
 				"tag": "9.6",
-				"digest": "9481e449ec7fdbcbb13ce3752670d262f0b2fc81b2450abacc22f1bf5ffdded3",
+				"digest": "f69964bc6c6a84e65d1274cf11ee07736d8412f78675a07e3b18eab23a05bfc3",
 				"service": "db"
 			},
 			{
