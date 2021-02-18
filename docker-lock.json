@@ -1,0 +1,38 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "ruby",
+				"tag": "2.6-alpine",
+				"digest": "3f85d984d5df5e3cb3d217258a3b5d0c3aacdfd355d6604ef8985bd07561bd27"
+			},
+			{
+				"name": "ruby",
+				"tag": "2.6-alpine",
+				"digest": "3f85d984d5df5e3cb3d217258a3b5d0c3aacdfd355d6604ef8985bd07561bd27"
+			}
+		]
+	},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "memcached",
+				"tag": "latest",
+				"digest": "4864bee476ec386e1f2bc2f0ea421191a35beddfffac8d5dad73031f9b275c9c",
+				"service": "cache"
+			},
+			{
+				"name": "postgres",
+				"tag": "9.6",
+				"digest": "1e1a426e885ed921a40c309048669ab3d799fea23bdde0816aec41fb980c66b8",
+				"service": "db"
+			},
+			{
+				"name": "elasticsearch",
+				"tag": "5.6.16",
+				"digest": "d0e119779df7ddf9d476102691d9d0b8783c13434e00d77f01327019c1297839",
+				"service": "search"
+			}
+		]
+	}
+}
